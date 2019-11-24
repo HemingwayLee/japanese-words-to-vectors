@@ -4,8 +4,8 @@
 *.model
 *.npy
 .DS_Store
-
 .venv
+
 jawiki-latest-pages-articles.xml.bz2
 
 # IDE
